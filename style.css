@@ -1,0 +1,32 @@
+.Bulb {
+    background-color: #858585;
+    width: 120px;
+    height: 130px;
+    border-radius: 100%;
+    margin: auto;
+   }
+   .skibdy{
+       background-color: #000000;
+       width:10px;
+       height: 100px;
+       margin: auto;
+   }
+   
+   body {
+     background-color: #303030;
+   }
+   .Jollibee{
+       margin: auto;
+       text-align: center;
+   }
+   .header{
+     background-color: #262626;
+     width: 800px;
+     height: 60px;
+     position: relative;
+     top: -595px;
+   }
+   .Patrick{
+     text-align: center;
+     height: 35px;
+   }
